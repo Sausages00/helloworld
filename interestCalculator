@@ -14,6 +14,6 @@ int main ()
   {
     cout << "What is the interest rate?";
     cin >>  interest rate ;
-    cout << "%"
+    cout << "%";
   }
 }
