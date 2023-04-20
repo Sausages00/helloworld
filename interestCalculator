@@ -1,0 +1,19 @@
+#include<iostream>
+
+using namespace std;
+
+int main ()
+{
+  string compoundOrSimple;
+  string compound = compound;
+  string simple = simple;
+  int interest rate;
+  cout << "Welcome to a finace calculator what would you like to calculate ? Compound or simple interest?\n Please enter here:";
+  cin >> compoundOrSimple;
+  if (compoundOrSimple = simple)
+  {
+    cout << "What is the interest rate?";
+    cin >>  interest rate ;
+    cout << "%"
+  }
+}
